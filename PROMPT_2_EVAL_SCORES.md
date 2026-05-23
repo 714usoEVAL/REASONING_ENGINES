@@ -343,3 +343,5 @@ Q50=II7A0X0T
 ══════════════════════════════════════════════════════════════════════
 END OF AXIOM-JUDGE CONFIGURATION
 ══════════════════════════════════════════════════════════════════════
+
+Send results as Research Paper formatted pdf download report 
